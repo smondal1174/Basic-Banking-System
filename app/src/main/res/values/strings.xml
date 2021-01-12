@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Banking_System</string>
+
+    <string name="banking_system_application">Banking System Application</string>
+    <string name="view_users">View Users</string>
+    <string name="name">Name :</string>
+    <string name="user_name">User Name</string>
+    <string name="phone_numebr">Phone numebr</string>
+</resources>
