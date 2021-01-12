@@ -1,5 +1,5 @@
 # Basic-Banking-System
-A basic banking application implemented using Kotlin.
+A basic banking application implemented using Java.
 The libraries mainly used are :-
 1. Volley
 2. Glide.
